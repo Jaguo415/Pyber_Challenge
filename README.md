@@ -21,4 +21,4 @@ For the Time range of Jan 2019 - May 2019. All 3 city types had the same bullish
 Urban Profitablilty: 
 Urban forms a double top, between middle of Feburary and middle of March. The second spike in March is unique and does not occur in suburban and Rural. This outlier should be explored more, because Urban is our most profitable City type.
 
-
+Screen Shot 2021-07-22 at 5.11.24 PM.png
